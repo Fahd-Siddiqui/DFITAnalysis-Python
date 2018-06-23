@@ -46,7 +46,7 @@ Similar to above, square root time analysis may also be performed by replacing G
 
 
 ## Sample data output figures
-[](Images/JobPlot.png)
+![alt text](Images/JobPlot.png)
 [](Images/G-Function.png)
 [](Images/SquareRoot.png)
 
