@@ -44,7 +44,7 @@ Similar to above, square root time analysis may also be performed by replacing G
 If the lines seem to plot outside the chart, limits may be adjusted while calling ...`plotData` function.
 
 ## Sample data output figures
-(images/JobPlot.png)
-(images/G-Function.png)
-(images/SquareRoot.png)
+(Images/JobPlot.png)
+(Images/G-Function.png)
+(Images/SquareRoot.png)
 
