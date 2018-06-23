@@ -47,8 +47,8 @@ Similar to above, square root time analysis may also be performed by replacing G
 
 ## Sample data output figures
 ![alt text](Images/JobPlot.png)
-[](Images/G-Function.png)
-[](Images/SquareRoot.png)
+![alt text](Images/G-Function.png)
+![alt text](Images/SquareRoot.png)
 
 ## Further reading
 1. [Barree slides] https://barree.net/images/documents/c5-pre-frac-injection-tests.pdf
