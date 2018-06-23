@@ -51,5 +51,5 @@ Similar to above, square root time analysis may also be performed by replacing `
 ![alt text](Images/SquareRoot.png)
 
 ## Further reading
-1. ![Barree slides] https://barree.net/images/documents/c5-pre-frac-injection-tests.pdf
+1. ![alt text] Barree slides https://barree.net/images/documents/c5-pre-frac-injection-tests.pdf
 
