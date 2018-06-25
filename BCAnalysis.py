@@ -115,12 +115,12 @@ class BCAnalysis:
         print('Click to draw the straight line through origin. \n')
         self.cidDraw = self.fig.canvas.mpl_connect('motion_notify_event', self.drawStraightLine)
         self.cidClick = self.fig.canvas.mpl_connect('button_press_event', self.drawStraightLine)
-        self.fig.canvas.start_event_loop(timeout=-1)
+        self.fig.canvas.start_event_loop(timeout=0)
 
         print('Click to select closure pressure. \n')
         self.cidDraw = self.fig.canvas.mpl_connect('motion_notify_event', self.drawVerticalLine)
         self.cidClick = self.fig.canvas.mpl_connect('button_press_event', self.drawVerticalLine)
-        self.fig.canvas.start_event_loop(timeout=-1)
+        self.fig.canvas.start_event_loop(timeout=0)
 
         plt.ioff()
 
